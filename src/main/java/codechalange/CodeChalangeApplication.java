@@ -1,4 +1,4 @@
-package codechalange.codechalange;
+package codechalange;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
